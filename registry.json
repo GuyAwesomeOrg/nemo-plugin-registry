@@ -1,0 +1,19 @@
+{
+	"plugins": {
+		"nemo-screenshot": {
+			"repository": "https://github.com/paypal/nemo-screenshot.git"
+		},
+		"nemo-drivex": {
+			"repository": "https://github.com/paypal/nemo-drivex.git"
+		},
+		"nemo-locatex": {
+			"repository": "https://github.com/paypal/nemo-locatex.git"
+		},
+		"nemo-view": {
+			"repository": "https://github.com/paypal/nemo-view.git"
+		},
+		"nemo-firefox-profile": {
+			"repository": "https://github.com/nikulkarni/nemo-firefox-profile"
+		}
+	}
+}
