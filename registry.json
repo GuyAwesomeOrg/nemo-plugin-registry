@@ -14,6 +14,9 @@
 		},
 		"nemo-firefox-profile": {
 			"repository": "https://github.com/nikulkarni/nemo-firefox-profile"
+		},
+		"nemo-browsermob-proxy": {
+			"repository": "https://github.com/nikulkarni/nemo-browsermob-proxy"
 		}
 	}
 }
