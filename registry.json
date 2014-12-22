@@ -13,10 +13,10 @@
 			"repository": "https://github.com/paypal/nemo-view.git"
 		},
 		"nemo-firefox-profile": {
-			"repository": "https://github.com/nikulkarni/nemo-firefox-profile"
+			"repository": "https://github.com/paypal/nemo-firefox-profile"
 		},
 		"nemo-browsermob-proxy": {
-			"repository": "https://github.com/nikulkarni/nemo-browsermob-proxy"
+			"repository": "https://github.com/paypal/nemo-browsermob-proxy"
 		}
 	}
 }
